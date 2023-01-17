@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Jars/selenium-server-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akhilr/eclipse-workspace/Test NG/com.beust.jcommander_1.78.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akhilr/eclipse-workspace/Test NG/org.apache-extras.beanshell.bsh_2.0.0.b6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akhilr/eclipse-workspace/Test NG/org.testng_7.4.0.r202105021533.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akhilr/eclipse-workspace/Test NG/org.webjars.jquery_3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/akhilr/eclipse-workspace/Test NG/org.yaml.snakeyaml_1.27.0.v20201111-1638.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
